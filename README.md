@@ -1,4 +1,4 @@
-# ContactsApi - Rest api project for testing task.
+# ContactsApi - Rest api project for test task. Маленькое тестовое задание в одну компанию.
 
 I wrote the project using .net 8. 
 This is a RESTful project that contains basic CRUD operations with the Contact entity. And a list of paginated contacs.
